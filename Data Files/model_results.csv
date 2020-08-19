@@ -1,0 +1,7 @@
+﻿,Linear Regression,Ridge Regression,Lasso Regression,Random Forest Regression,Decision Tree Regression
+Train Score,83.778%,83.778%,83.778%,99.629%,99.866%
+Test Score,83.708%,83.708%,83.708%,98.079%,97.501%
+MAE,60.432,60.432,60.432,15.163,17.007
+MSE,10664.319,10664.319,10664.320,1257.314,1636.143
+RMSE, $103.27 , $103.27 , $103.27 , $35.46 , $40.45 
+Run Time(secs),0.205,0.114,512.449,25.069,0.768
